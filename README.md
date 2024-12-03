@@ -1,2 +1,2 @@
-# cryptoexplorers_workshop-
+# cryptoexplorers_workshop
 Hackathon Liga #cryptoexplorers 
